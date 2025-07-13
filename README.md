@@ -23,7 +23,7 @@ I am passionate about technology and constantly exploring new areas in software 
 - **Backend:** Node.js, Express.js  
 - **Databases:** MongoDB, MySQL  
 - **Core CS:** DSA, OOP, DBMS, OS, CN, SQL, Software Design  
-- **Tools & Platforms:** Postman, Git, GitHub  
+- **Tools & Platforms:** Postman, Git, GitHub, VsCode
 - **Currently Exploring:** Firebase, System Design
 
 ---
